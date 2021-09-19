@@ -1,9 +1,14 @@
-PS D:\git\TodayILearned\Work\W_2021_03\front> npm init
-PS D:\git\TodayILearned\Work\W_2021_03\front> npm i next@9
-PS D:\git\TodayILearned\Work\W_2021_03\front> npm i react react-dom
-PS D:\git\TodayILearned\Work\W_2021_03\front> npm i prop-types
-PS D:\git\TodayILearned\Work\W_2021_03\front> npm i eslint -D
-PS D:\git\TodayILearned\Work\W_2021_03\front> npm i eslint-plugin-import -D
-PS D:\git\TodayILearned\Work\W_2021_03\front> npm i eslint-plugin-react -D
-PS D:\git\TodayILearned\Work\W_2021_03\front> npm i eslint-plugin-react-hooks -D
-PS D:\git\TodayILearned\Work\W_2021_03\front> npm i antd styled-components @ant-design/icons
+\front> npm init
+\front> npm i next@9
+\front> npm i react react-dom
+\front> npm i prop-types
+\front> npm i eslint -D
+\front> npm i eslint-plugin-import -D
+\front> npm i eslint-plugin-react -D
+\front> npm i eslint-plugin-react-hooks -D
+\front> npm i antd styled-components @ant-design/icons
+\front> npm i next-redux-wrapper --force
+\front> npm i redux
+\front> npm i react-redux
+
+
