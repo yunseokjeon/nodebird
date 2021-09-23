@@ -12,3 +12,20 @@
 \front> npm i react-redux
 \front> npm i redux-devtools-extension
 \front> npm i react-slick
+\front> npm i redux-thunk
+\front> npm rm redux-thunk
+\front> npm i redux-saga
+\front> npm i axios
+\front> npm i -D babel-eslint eslint-config-airbnb eslint-plugin-import
+\front> npm i -D eslint-plugin-react-hooks
+\front> npm i -D eslint-plugin-jsx-a11y
+\front> npm i shortid
+\front> npm i immer
+\front> npm i faker
+\front>
+\front>
+\front>
+\front>
+\front>
+\front>
+\front>
