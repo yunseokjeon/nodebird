@@ -1,0 +1,24 @@
+{
+  "name": "todowithreduxsaga",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next -p 3060",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "immer": "^9.0.6",
+    "next": "^9.5.5",
+    "next-redux-wrapper": "^7.0.5",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
+    "react-redux": "^7.2.5",
+    "redux": "^4.1.1",
+    "redux-devtools-extension": "^2.13.9",
+    "redux-saga": "^1.1.3"
+  }
+}
